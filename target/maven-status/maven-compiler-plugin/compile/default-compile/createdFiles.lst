@@ -1,0 +1,6 @@
+com\example\SistemaWeb\Repositorio\RepositorioAlumno.class
+com\example\SistemaWeb\SistemaWebApplication$1.class
+com\example\SistemaWeb\SistemaWebApplication.class
+com\example\SistemaWeb\Servicios\ServicioAlumno.class
+com\example\SistemaWeb\Entidades\Alumno.class
+com\example\SistemaWeb\Controladores\ControladorAlumno.class
